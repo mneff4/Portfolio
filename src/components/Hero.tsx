@@ -4,10 +4,10 @@ import { motion } from 'framer-motion';
 
 // You can customize these values
 const personalInfo = {
-  name: "John Doe",
-  title: "Senior Data Analyst",
-  location: "San Francisco, CA",
-  email: "john.doe@example.com",
+  name: "Mary Neff",
+  title: "Data Analyst",
+  location: "New York",
+  email: "m.n@example.com",
   github: "https://github.com/johndoe",
   linkedin: "https://linkedin.com/in/johndoe",
   resumeUrl: "/path-to-your-resume.pdf", // Add your resume file or link
