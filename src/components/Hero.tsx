@@ -7,11 +7,11 @@ const personalInfo = {
   name: "Mary Neff",
   title: "Data Analyst",
   location: "New York",
-  email: "m.n@example.com",
-  github: "https://github.com/johndoe",
-  linkedin: "https://linkedin.com/in/johndoe",
+  email: "neff.mary4n@gmail.com",
+  github: "https://github.com/mneff4",
+  linkedin: "https://www.linkedin.com/in/neffmary4/",
   resumeUrl: "/path-to-your-resume.pdf", // Add your resume file or link
-  bio: "Data analyst with 5+ years of experience specializing in predictive modeling and business intelligence. Passionate runner with 10+ marathons completed.",
+  bio: "Hello! I currently live in Syracuse, NY. I'm a Mathematics graduate from Stony Brook University with a passion for data analysis. Proficient in SQL and Python, I’m eager to apply my analytical skills to help organizations make data-driven decisions.",
   skills: [
     "Data Analysis",
     "Machine Learning",
@@ -23,10 +23,7 @@ const personalInfo = {
     "Business Intelligence"
   ],
   highlights: [
-    "Led 15+ successful data projects",
-    "Reduced costs by $2M through predictive maintenance",
-    "Boston Marathon Qualifier",
-    "Published in data science journals"
+    "To be completed"
   ]
 };
 
